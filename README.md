@@ -69,7 +69,4 @@ Place the test video in the expected input folder before running the video-analy
 ## ⚠️ Limitations
 This is an experimental computer vision project. Looking away, turning one's head, or looking down may be normal exam behavior. The system's outputs are indicators for human review, not definitive evidence of cheating.
 
-## 👩‍💻 Author
-**Marina Essam**
 
-GitHub: [Marinastudent-hub](https://github.com/Marinastudent-hub)
